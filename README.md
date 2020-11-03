@@ -1,0 +1,2 @@
+# JAGS-Bayesian-hierarchical-model
+ 
