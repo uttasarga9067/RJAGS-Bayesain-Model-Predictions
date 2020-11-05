@@ -4,4 +4,4 @@
 
 ### This Model was developed using JAGS Library; while MCMC Algorithmic chains were used for helping the model converge.
 
-![ScreenShot](https://raw.github.com/uttasarga9067/RJAGS-Bayesain-Model-Predictions/1.PNG)
+![ScreenShot](https://raw.github.com/uttasarga9067/RJAGS-Bayesain-Model-Predictions/1.png)
